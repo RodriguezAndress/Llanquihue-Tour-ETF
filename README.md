@@ -8,7 +8,7 @@ Aquí encontrarás todos los recursos necesarios para complementar tu aprendizaj
 Desarrollar soluciones orientadas a objetos aplicando principios fundamentales como encapsulamiento, 
 herencia, polimorfismo, composición, uso de colecciones, e integración de buenas prácticas de programación y documentación.
 
-💡 Problema y solucion del problema
+💡 Problema y solución del problema
 
 Llanuihue Tour una empresa de turismo que busca agilizar sus procesos haciendo uso de la técnologia para evitar errores y duplicaciones.
 Para ello se crea una plataforma que ayuda a registrar clientes, empleados y colaboradores ademas de los servicios que ofrece, pudiendo 
